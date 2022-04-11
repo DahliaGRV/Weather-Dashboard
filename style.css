@@ -1,0 +1,19 @@
+
+header {
+    text-align: center;
+    padding: 1%;
+    background: linear-gradient(to left,darkblue, blue);
+    color: white;
+};
+/* .container {
+    margin: 0 auto;
+} */
+body {
+    margin-left: 0 auto;
+}
+#weather-list {
+    list-style-type: none;
+}
+.list-group-item {
+    text-align: center;
+}
