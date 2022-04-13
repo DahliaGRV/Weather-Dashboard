@@ -15,7 +15,7 @@ function getCities(){
   listGroup.appendChild(cityList);
   cities.push(storedCities[i]);
 
-  cityList.setAttribute("style","border:1px grey solid; border-raidus:40%; padding:2%")
+  cityList.setAttribute("style","border:1px grey solid; border-raidus:40%; padding:2%; text-align:center")
   };
 };
 };
@@ -28,7 +28,7 @@ var cityList= document.createElement("li");
 cityList.textContent = city;
 listGroup.appendChild(cityList);
 
-cityList.setAttribute("style","border:1px grey solid; border-raidus:40%; padding:2%")
+cityList.setAttribute("style","border:1px grey solid; border-raidus:40%; padding:2%; text-align:center")
 
 getCity();
 });
