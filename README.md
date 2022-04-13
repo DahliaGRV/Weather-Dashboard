@@ -10,6 +10,7 @@ https://github.com/DahliaGRV/Weather-Dashboard
 https://dahliagrv.github.io/Weather-Dashboard/
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/98775943/163087750-d5b33bfe-a80b-4b34-b7c3-52fe5855a6e7.png)
 
 
 ## Summary 
